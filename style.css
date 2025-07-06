@@ -44,7 +44,7 @@ a{
     height: 70px;
     border-radius: 50px;
     background-color: rgb(189, 135, 81);
-    bottom: 10px;
+    bottom: 0px;
     position: absolute;
     right: 45%;
     transition-property: bottom;
@@ -99,10 +99,13 @@ a{
      font-family: cursive;
  }
  button{
-    margin-left: 50px;
+    margin-left: 250px;
     background-color: lightgray;
     color: rgb(189, 135, 81);
     box-shadow: 10px;
     border-radius: 10px;
     cursor: pointer;
+    position: absolute;
+    top: 460px;
  }
+ 
