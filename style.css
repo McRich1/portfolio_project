@@ -98,3 +98,11 @@ a{
      font-size: 26px;
      font-family: cursive;
  }
+ button{
+    margin-left: 50px;
+    background-color: lightgray;
+    color: rgb(189, 135, 81);
+    box-shadow: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+ }
