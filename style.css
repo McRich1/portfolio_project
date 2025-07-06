@@ -1,0 +1,100 @@
+header{
+    display: flex;
+    background-color: lightgray;
+    width:100%;
+    position: fixed;
+    z-index: 1;
+    top: 0px;
+}
+h1{
+    margin-left: 50px;
+}
+.proSKillFoot h2{
+    margin-left: 50px;
+    font-family: cursive;
+    font-size:27px ;
+    margin-top: 70px;;
+}
+
+nav ul{
+    display: flex;
+    margin-left: 410px;
+    list-style-type: none;
+}
+
+nav ul li{
+    margin-left: 30px;
+    font-size: 24px;
+}
+
+.aboutme{
+    width: 500px;
+    font-size:18px ;
+    font-family: cursive;
+    margin-left: 50px;
+}
+a{
+    text-decoration: none;
+    cursor: pointer;
+}
+#ball{
+    text-align: center;
+    align-content: center ;
+    width: 80px;
+    height: 70px;
+    border-radius: 50px;
+    background-color: rgb(189, 135, 81);
+    bottom: 10px;
+    position: absolute;
+    right: 45%;
+    transition-property: bottom;
+    transition-duration: 4s;
+    z-index: 2;
+}
+ .container{
+    display: flex;
+    position: relative;
+    top:60px;
+ }
+ img{
+    width:430px;
+    height:350px;
+    margin-left:300px;
+    margin-right:70px;
+    margin-top: 20px;
+ }
+ .proSKillFoot ul li{
+        margin-left: 30px;
+        font-size: 18px;
+        font-family: cursive;
+        list-style-type: square;  
+ }
+ .skillimagescontainer{
+    display: flex;
+    width: 100%;
+    background-color: lightgray;
+    
+    
+ }
+ .skillimagescontainer img{
+    width: 50px;
+    height: 50px;
+    margin-left: 50px;
+         
+ }
+ footer{
+    background-color: lightgray;
+    width: 100%;
+    font-family: cursive;
+ }
+ footer ul{
+     margin-left: 30px;
+     font-size: 18px;
+     font-family: cursive;
+     list-style-type: square; 
+ }
+ footer h2{
+     margin-left: 45px;
+     font-size: 26px;
+     font-family: cursive;
+ }
